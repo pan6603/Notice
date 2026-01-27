@@ -5,5 +5,8 @@ export const NoticeWritePageContainer = styled.div`
     width: 100%;
     height: 1299px;
     background: #F6F6F8;
+    display: flex;
+    flex-direction: column;
+    
 `
 
