@@ -8,7 +8,7 @@ export default function CancelButton() {
 
     return (
         <>
-            <CancelBtn>Cancel</CancelBtn>
+            <CancelBtn to="/notices">Cancel</CancelBtn>
         </>
     )
 } 
